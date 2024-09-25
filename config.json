@@ -1,0 +1,7 @@
+{
+    "bot_token": "bot_token",
+    "modules": [
+        "database",
+       "pokedex"
+    ]
+}
